@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29306.81
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterpretadorNfeConsole", "NotaroConsole\InterpretadorNfeConsole.csproj", "{8849CD64-0257-49E3-A5C2-CD6C41DAC15C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterpretadorNfeConsole", "InterpretadorNfeConsole\InterpretadorNfeConsole.csproj", "{8849CD64-0257-49E3-A5C2-CD6C41DAC15C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
